@@ -1,0 +1,10 @@
+{
+  "name": "webtest",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "d3": "~3.5.5",
+    "dc.js": "~1.7.3",
+    "crossfilter": "~1.3.11"
+  }
+}
